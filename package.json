@@ -1,0 +1,13 @@
+{
+  "name": "us-equities-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "npx serve",
+    "netlify": "netlify dev"
+  },
+  "devDependencies": {
+    "netlify-cli": "^23.5.1",
+    "serve": "^14.2.5"
+  }
+}
